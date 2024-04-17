@@ -38,3 +38,4 @@ mysql> select * from employees;
 +-------------+------------+-----------+-----------------+--------------+------------+--------+------------+------------+---------------+
 5 rows in set (0.00 sec)
 
+insert into dependents values (1,'amala','arun','wife',5),(2,'akhila','arjun','child',4),(3,'hari','murali','brother',3);
